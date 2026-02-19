@@ -1,0 +1,33 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# PHP / Composer
+vendor/
+composer.lock
+
+# IDE / tooling
+.idea/
+.vscode/
+*.code-workspace
+
+# Environment / secrets
+.env
+.env.*
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
